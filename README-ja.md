@@ -60,7 +60,7 @@ FIR RACKを組み立てる場合に必要なパーツは以下の通りです。
 ## 3Dモデルのダウンロード
 
 FIR RACKはMakerWorldでダウンロード可能です。<br>
-https://makerworld.com/en/@kaz3d/upload
+https://makerworld.com/en/models/3273170-fir-rack-3d-printable-10-inch-server-rack
 
 シェルフは本リポジトリからダウンロード可能です。<br>
 [shelf/](shelf/)

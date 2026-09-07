@@ -63,7 +63,7 @@ You will also need extra M6 nuts and 12 mm M6 screws for the shelves you install
 ## Download the 3D models
 
 FIR RACK is available on MakerWorld.<br>
-https://makerworld.com/en/@kaz3d/upload
+https://makerworld.com/en/models/3273170-fir-rack-3d-printable-10-inch-server-rack
 
 Shelves can be downloaded from this repository.<br>
 [shelf/](shelf/)
