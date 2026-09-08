@@ -79,9 +79,9 @@ FIR RACKのリミックスを作成する場合は、このモデルのプロフ
 
 * [シェルフの3Dモデル](shelf/)
 
-## FIR RACK Satisfactory Edition
+## FIR RACK Satisfactory Kit
 
-[Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/)の世界観が楽しめるFIR RACKの別バージョンです。AMSによるマルチカラープリントに対応しています。[→ダウンロード](https://makerworld.com/en/@kaz3d/upload)
+[Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/)の世界観が楽しめるFIR RACKの交換パーツキットです。AMSによるマルチカラープリントに対応しています。[→ダウンロード](https://makerworld.com/en/models/3277142-fir-rack-satisfactory-kit#profileId-3716643)
 
 <a href="doc/image/satisfactoryver.webp" target="_blank" rel="noopener noreferrer"><img src="doc/image/satisfactoryver.webp" width="480"></a>
 

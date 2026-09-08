@@ -82,9 +82,9 @@ This repository includes:
 
 * [Shelf 3D models](shelf/)
 
-## FIR RACK Satisfactory Edition
+## FIR RACK Satisfactory Kit
 
-A separate version of FIR RACK in the style of [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/). Designed for multi-color printing with AMS. [→ Download](https://makerworld.com/en/@kaz3d/upload)
+A kit of replacement parts that give FIR RACK a [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/) look. Designed for multi-color printing with AMS. [→ Download](https://makerworld.com/en/models/3277142-fir-rack-satisfactory-kit#profileId-3716643)
 
 <a href="doc/image/satisfactoryver.webp" target="_blank" rel="noopener noreferrer"><img src="doc/image/satisfactoryver.webp" width="480"></a>
 
